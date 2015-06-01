@@ -1,0 +1,33 @@
+body{
+	background-color:#1d87aa;
+}
+
+#ilegralogo{
+	padding-top: 2%;
+	height:200px;
+	width:100px;
+	position:relative;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+img{
+	height:150px;
+	width:150px;
+}
+
+#fridaytalk{
+	height:200px;
+	text-align: center;	
+	position:relative;
+	margin-right: auto;
+	margin-left: auto:;
+}
+a{
+	color:#ffffff;
+	font-size:100px;
+}
+
+a:link{
+	text-decoration: none;
+}
