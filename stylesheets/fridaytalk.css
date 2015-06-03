@@ -1,14 +1,38 @@
 body{
 	background-color:#1d87aa;
+	margin:0;
+	padding:0;
+}
+
+#header{
+	height:120px;
+	text-align:center;
+	font-size: 70px;
+	background-color: #1d87aa;
+	width:100%;
+	padding:10px;
+}
+
+#header img{
+	float:left;
+	height:100%;
+}
+
+#header a{
+	color:#ffffff;
+	text-decoration:none;
+	font-family: Arial;
+	padding-top:20px;
 }
 
 #menucontain{
-	border-radius:10px;
 	position:relative;
 	width:20%;
 	background-color:#123456;
+	float:left;
+	height:100%;
+	border-radius: 10px;
 }
-
 
 #menutree{
 	color:#ffffff;
@@ -16,5 +40,52 @@ body{
 	padding:5px;
 
 }
+
+#lectures{
+	background-color: #80b1d6;
+	position:relative;
+	float:right;
+	width:79%;
+	height:1800px;
+	padding-right:10px;
+}
+
+.episodes{
+	width:100%;
+	height:360px;
+}
+
+.slideshare{
+	float:left;
+	width:40%;
+}
+
+.summary{
+	height:100%;
+	width:30%;
+	float:left;
+	margin-left:20px;
+}
+
+.authorimage{
+	float:right;
+}
+
+.authorimage img{
+	height:300px;
+	width:200px;
+}
+
+.bio{
+
+	height:200px;
+}
+
+.bio div{
+	width:50%;
+	float:right;
+}
+
+
 
 
