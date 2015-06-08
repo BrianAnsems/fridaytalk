@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$( "#menutree" ).accordion({
+	$( ".row" ).accordion({
 		collapsible:true,
 		active:false
 	});
