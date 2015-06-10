@@ -1,10 +1,10 @@
 $(document).ready(function(){
-	$( ".row" ).accordion({
-		collapsible:true,
-		active:false
-	});
+	   
 
 });
+
+
+
 function lecturePage(){
 		document.getElementById("lectures").innerHTML="";
 		$("#lectures").append('<div class="episodes"></div>');

@@ -15,6 +15,9 @@
 		<img src="http://ilegra.com/en/wp-content/themes/bones/library/images/logotipo.png">
 		<a <a href="index.html">Friday Talk</a>
 	</div>
+	<div id="container"></div>
+
+	
 	<!--#include virtual="sessionmenu.html"-->
 	<!--#include virtual="lecturelist.html"-->
 </body>
