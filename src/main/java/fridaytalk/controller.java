@@ -12,6 +12,6 @@ public class controller{
 
 	@RequestMapping(value="/fridaytalk", method=RequestMethod.GET)
 	public String mainPage(){
-		return "test";
+		return "index";
 	}
 }
