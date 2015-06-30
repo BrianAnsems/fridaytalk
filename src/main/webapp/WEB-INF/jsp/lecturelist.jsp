@@ -1,3 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
 <div id="lectures">
 	<div class="episodes">
 		<div class="slideshare">
@@ -32,7 +41,7 @@
 	<div class="bio">
 		<div>
 			<h2>Mini Bio</h2>
-				<p>Mário Raul de Morais Andrade (October 9, 1893 – February 25, 1945) was a Brazilian poet, novelist, musicologist, art historian and critic, and photographer. One of the founders of Brazilian modernism, he virtually created modern Brazilian poetry with the publication of his Paulicéia Desvairada (Hallucinated City) in 1922.</p>
+				<p>MÃ¡rio Raul de Morais Andrade (October 9, 1893 â February 25, 1945) was a Brazilian poet, novelist, musicologist, art historian and critic, and photographer. One of the founders of Brazilian modernism, he virtually created modern Brazilian poetry with the publication of his PaulicÃ©ia Desvairada (Hallucinated City) in 1922.</p>
 		</div>
 	</div>
 	<div class="episodes">
@@ -54,3 +63,6 @@
 		</div>
 	</div>
 </div>
+
+</body>
+</html>
